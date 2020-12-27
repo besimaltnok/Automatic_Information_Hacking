@@ -9,11 +9,14 @@ It is the tool that will make your time more valuable. Time Is Everything!
 # How To İnstall With Linux ?
 
 git clone 
+
 chmod 777 automatic.ssh
+
+./automatica.ssh > penetration.txt
 
 example: Ip_Adress  10.0.2.3
 
-ezample: Web_Adress test.com
+example: Web_Adress test.com
          
 ..............................
 
