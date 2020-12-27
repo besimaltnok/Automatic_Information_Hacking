@@ -8,7 +8,7 @@ It is the tool that will make your time more valuable. Time Is Everything!
 
 # How To Install With Linux ?
 
-git clone 
+git clone https://github.com/alperenugurlu/Automatic_Information_Hacking.git
 
 chmod 777 automatic.ssh
 
