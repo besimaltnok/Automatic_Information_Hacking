@@ -12,7 +12,7 @@ git clone
 
 chmod 777 automatic.ssh
 
-./automatica.ssh > penetration.txt
+./automatic.ssh > penetration.txt
 
 example: Ip_Adress  10.0.2.3
 
