@@ -10,6 +10,8 @@ It is the tool that will make your time more valuable. Time Is Everything!
 
 git clone https://github.com/alperenugurlu/Automatic_Information_Hacking.git
 
+cd Automatic_Information_Hacking/
+
 chmod 777 automatic.ssh
 
 ./automatic.ssh > penetration.txt
