@@ -12,7 +12,8 @@ git clone
 chmod 777 automatic.ssh
 
 example: Ip_Adress  10.0.2.3
-       : Web_Adress test.com
+
+ezample: Web_Adress test.com
          
 ..............................
 
