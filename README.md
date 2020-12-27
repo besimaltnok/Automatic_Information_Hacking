@@ -12,7 +12,7 @@ git clone https://github.com/alperenugurlu/Automatic_Information_Hacking.git
 
 cd Automatic_Information_Hacking/
 
-chmod 777 automatic.ssh
+chmod 777 automatic.sh
 
 ./automatic.ssh > penetration.txt
 
