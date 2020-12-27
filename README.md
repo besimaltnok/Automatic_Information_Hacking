@@ -6,7 +6,7 @@
 Nmap, Dirb, Gobuster, theHarvester, Sqlmap tools have been automated. 
 It is the tool that will make your time more valuable. Time Is Everything!
 
-# How To İnstall With Linux ?
+# How To Install With Linux ?
 
 git clone 
 
